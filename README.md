@@ -6,7 +6,7 @@ This repo is the create-repo-from-template golden path for new services: the sta
 
 This repo is one of seven that make up the reference implementation of the
 **Platform Factory** pattern. The design seed — pattern docs, ADRs, and the
-build plan — lives at [https://github.com/thecloudgeek/platform-factory](https://github.com/thecloudgeek/platform-factory).
+build plan — lives at [https://github.com/platform-factory/platform-factory-concept](https://github.com/platform-factory/platform-factory-concept).
 
 Platform Factory was designed and written by **Ronak Patel**
 ([thecloudgeek LLC](https://github.com/thecloudgeek)). Licensed Apache-2.0 —

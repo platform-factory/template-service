@@ -1,6 +1,6 @@
 # template-service
 
-This repo is the create-repo-from-template golden path for new services: the starting point a team clones to stand up a new service that already conforms to the platform's conventions.
+This repo **will be** the create-repo-from-template golden path for new services: the skeleton a team clones so a new service is born conforming rather than retrofitted — the per-repo layout plus its own CLAUDE.md pointing at central knowledge (see the design seed's [`docs/design/knowledge-as-code.md`](https://github.com/platform-factory/platform-factory-concept/blob/main/docs/design/knowledge-as-code.md)). **Today it is an empty scaffold**: none of it is here yet. Its `.github/CODEOWNERS` is still the single blanket line it was scaffolded with (`* @platform-factory/platform`).
 
 ## Part of the Platform Factory
 
@@ -12,7 +12,7 @@ Platform Factory was designed and written by **Ronak Patel**
 ([thecloudgeek LLC](https://github.com/thecloudgeek)). Licensed Apache-2.0 —
 the attribution to keep is in [NOTICE](NOTICE).
 
-This repo is built out in **M2**.
+M2 did not build this repo; the milestone that does is not yet set.
 
 ## Status
 
